@@ -1,0 +1,9 @@
+{
+  "name": "ci4-nwjs-app",
+  "main": "http://localhost:8080",
+  "window": {
+    "title": "CodeIgniter 4 NW.js App",
+    "width": 1024,
+    "height": 768
+  }
+}
